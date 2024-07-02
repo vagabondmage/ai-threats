@@ -3,4 +3,4 @@
 ID: #RobotArmy \
 Category: Military \
 Status: Hypothetical \
-Maximum Impact: Human Fatality (Medium-Catastrophic Scale)
+Maximum Impact: Human Fatality (Medium-to-Catastrophic Scale)

@@ -3,4 +3,4 @@
 ID: #IntelligenceExplosion \
 Category: General \
 Status: Hypothetical \
-Maximum Impact: Unknown
+Maximum Impact: Human Fatality (Catastrophic Scale)
