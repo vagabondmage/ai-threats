@@ -3,4 +3,4 @@
 ID: #AIDrones \
 Category: Military \
 Status: In Development \
-Maximum Impact: Human Fatality (Small-Medium Scale)
+Maximum Impact: Human Fatality (Small-to-Medium Scale)
